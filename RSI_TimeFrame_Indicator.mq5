@@ -15,7 +15,7 @@
 input color Text_Color = clrWhite;
 input color BullColor   = clrGreen;
 input color BearColor   = clrRed;
-input int  RSI_Var    = 50;
+input int  RSI_Var    = 14;
 
 
 
